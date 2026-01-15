@@ -1,2 +1,14 @@
 @import url(normalise.css);
+@import url(variables.css);
 @import url(fonts.css);
+@import url(switcher.css);
+@import url(converter.css);
+
+body{
+    background-color: var(--light-background);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
