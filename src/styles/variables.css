@@ -1,0 +1,23 @@
+:root{
+    --color-white: #FFFFFF;
+    --color-blue: #6943FF;
+
+    --light-unit-name:#5A537B;
+    --dark-unit-name:#CCC1FF;
+
+    --light-unit-convert:#353535;
+    --dark-unit-convert:var(--color-white);
+    
+    --light-unit-body:#F4F4F4;
+    --dark-unit-body:#1F2937;
+
+    --dark-unit-item:#273549;
+
+    --light-background: #E5E5E5;
+    --dark-background: #1C1C1C;
+
+
+    --side-gap:25px;
+    --block-gap:36px;
+    --item-gap:23px;
+}
