@@ -9,7 +9,7 @@
     position: fixed;
     top:20px;
     right:20px;
-    background-color: #64748B;
+    background-color: var(--color-blue);
     width: var(--switcher-width);
     height: var(--height);
     border-radius: 30px;
@@ -30,7 +30,7 @@
     transform:translateX(calc(100% + 2px));
 }
 .switcher__sun{
-    color:#64748B;
+    color:var(--color-blue);
     height: 72%;
     width:var(--switcher-img-width);
     position: absolute;
@@ -53,6 +53,6 @@
     transition: all 0.2s;
 }
 .switcher__moon-nightshift{
-    color:#64748B;
+    color:var(--color-blue)
 }
     
