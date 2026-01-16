@@ -208,3 +208,6 @@ svg * {
     scroll-behavior: auto !important;
   }
 }
+input{
+  all:unset;
+}
