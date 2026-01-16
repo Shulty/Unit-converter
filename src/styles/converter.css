@@ -97,6 +97,7 @@ transition: all 0.3s;
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
+    transition: all 0.3s;
 }
 .converter__element{
     height: 109px;
@@ -107,11 +108,17 @@ transition: all 0.3s;
     text-align: center;
     
     background-color: var(--color-white);
+
+    transition: all 0.3s;
 }
 .converter__element-title{
     color:var(--light-unit-name);
     user-select: none;
+
+    transition: all 0.3s;
 }
 .converter__element-conversion{
     color:var(--light-unit-convert);
+
+    transition: all 0.3s;
 }
