@@ -3,6 +3,7 @@
 @import url(fonts.css);
 @import url(switcher.css);
 @import url(converter.css);
+@import url(converter-nightshift.css);
 
 body{
     background-color: var(--light-background);

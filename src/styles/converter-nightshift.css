@@ -1,0 +1,12 @@
+.converter__body-nightshift{
+background-color: var(--dark-unit-body);
+}
+.converter__element-nightshift{
+background-color: var(--dark-unit-item);
+}
+.converter__element-title-nightshift{
+color:var(--dark-unit-name);
+}
+.converter__element-conversion-nightshift{
+    color:var(--dark-unit-convert);
+}
