@@ -39,7 +39,7 @@
     left:calc(var(--height)*0.16);
     transition: all 0.2s;
 }
-.switcher__sun-nigthshift{
+.switcher__sun-nightshift{
     color:white;
 }
 .switcher__moon{
